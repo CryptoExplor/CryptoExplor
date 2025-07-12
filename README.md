@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ravi!
+# 👋 Hello, I'm CryptoExplor!
 
 🔍 Tax practitioner | 🧠 Consultant | 🧪 Web3 Strategist | 🛠️ Crypto Automator  
 Building at the intersection of finance, code, and blockchain innovation.
