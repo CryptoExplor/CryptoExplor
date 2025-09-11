@@ -7,16 +7,13 @@ Building at the intersection of **finance, code, and blockchain innovation**.
 ### 🎵 Vibes While You Browse  
 
 <audio controls>
-  <source src="https://raw.githubusercontent.com/CryptoExplor/CryptoExplor/main/background.mp3" type="audio/mpeg">
+  <source src="https://cryptoexplor.github.io/CryptoExplor/background.mp3" type="audio/mpeg">
   Your browser does not support the audio element.
 </audio>  
 
-[![Play Music](https://img.shields.io/badge/▶️-Play%20Background%20Music-blue?style=for-the-badge)](https://raw.githubusercontent.com/CryptoExplor/CryptoExplor/main/background.mp3)
+[![Play Music](https://img.shields.io/badge/▶️-Play%20Background%20Music-blue?style=for-the-badge)](https://cryptoexplor.github.io/CryptoExplor/background.mp3)
 
 ---
-
----
-
 ### 📈 Profile Stats  
 
 ![Profile views](https://komarev.com/ghpvc/?username=CryptoExplor&label=Profile%20views&color=0e75b6&style=flat)  
