@@ -1,4 +1,4 @@
-<!-- Clickable Custom Banner (add your own image URL for branding!) -->
+<!-- Clickable Custom Banner -->
 <p align="center">
   <a href="https://github.com/CryptoExplor">
     <img src="https://raw.githubusercontent.com/CryptoExplor/assets/main/banner.png" alt="Finance x Code x Web3 Banner" width="100%">
@@ -7,7 +7,7 @@
 
 # 👋 Hello, I'm CryptoExplor!
 
-🔍 **Tax Practitioner** | 🧠 **Consultant** | 🧪 **Web3 Strategist** | 🛠️ **Crypto Automator**  
+🔍 Tax Practitioner | 🧠 Consultant | 🧪 Web3 Strategist | 🛠️ Crypto Automator  
 Building at the intersection of **finance, code, and blockchain innovation**.
 
 ---
@@ -16,9 +16,8 @@ Building at the intersection of **finance, code, and blockchain innovation**.
 
 | Project | Description | Tech | Badges |
 | ------- | ----------- | ---- | ------ |
-| [FarmLabs](https://github.com/CryptoExplor/FarmLabs) | Stealth Farming Automation Suite with persona-driven wallet behavior | Node.js, Ethers.js | [![Stars](https://img.shields.io/github/stars/CryptoExplor/FarmLabs?style=social)](https://github.com/CryptoExplor/FarmLabs/stargazers) [![Issues](https://img.shields.io/github/issues/CryptoExplor/FarmLabs)](https://github.com/CryptoExplor/FarmLabs/issues) |
-| [Tax Dashboard](https://github.com/CryptoExplor/Tax-Dashboard) | Firebase-integrated multi-user client system with AI-powered ITR parsing | Firebase, React, AI APIs | [![Stars](https://img.shields.io/github/stars/CryptoExplor/Tax-Dashboard?style=social)](https://github.com/CryptoExplor/Tax-Dashboard/stargazers) [![Issues](https://img.shields.io/github/issues/CryptoExplor/Tax-Dashboard)](https://github.com/CryptoExplor/Tax-Dashboard/issues) |
-| [multichain-hardhat-deployer](https://github.com/CryptoExplor/multichain-hardhat-deployer) | Unified deployment tool for EVM-compatible chains | Hardhat, TypeScript | [![Stars](https://img.shields.io/github/stars/CryptoExplor/multichain-hardhat-deployer?style=social)](https://github.com/CryptoExplor/multichain-hardhat-deployer/stargazers) [![Issues](https://img.shields.io/github/issues/CryptoExplor/multichain-hardhat-deployer)](https://github.com/CryptoExplor/multichain-hardhat-deployer/issues) |
+| [FarmLabs](https://github.com/CryptoExplor/FarmLabs) | Stealth Farming Automation Suite with persona-driven wallet behavior | Node.js, Ethers.js | [![Stars](https://img.shields.io/github/stars/CryptoExplor/FarmLabs?style=social)](https://github.com/CryptoExplor/FarmLabs/stargazers) [![Forks](https://img.shields.io/github/forks/CryptoExplor/FarmLabs?style=social)](https://github.com/CryptoExplor/FarmLabs/network/members) [![Issues](https://img.shields.io/github/issues/CryptoExplor/FarmLabs)](https://github.com/CryptoExplor/FarmLabs/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/CryptoExplor/FarmLabs/pulls) |
+| [Celo-Wallet-Simulator](https://github.com/CryptoExplor/Celo-Wallet-Simulator) | Simulate transactions and wallet activity on Celo | React, Celo SDK | [![Stars](https://img.shields.io/github/stars/CryptoExplor/Celo-Wallet-Simulator?style=social)](https://github.com/CryptoExplor/Celo-Wallet-Simulator/stargazers) [![Forks](https://img.shields.io/github/forks/CryptoExplor/Celo-Wallet-Simulator?style=social)](https://github.com/CryptoExplor/Celo-Wallet-Simulator/network/members) [![Issues](https://img.shields.io/github/issues/CryptoExplor/Celo-Wallet-Simulator)](https://github.com/CryptoExplor/Celo-Wallet-Simulator/issues) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square)](https://github.com/CryptoExplor/Celo-Wallet-Simulator/pulls) |
 
 ---
 
@@ -27,7 +26,14 @@ Building at the intersection of **finance, code, and blockchain innovation**.
 - [Solayer-devnet-faucet](https://github.com/CryptoExplor/Solayer-devnet-faucet) — Fast, reliable faucet for Solana devnet
 - [faucet-test](https://github.com/CryptoExplor/faucet-test) — Experimenting with crypto faucets and user flows
 - [faucet-2](https://github.com/CryptoExplor/faucet-2) — Next-gen faucet API with rate limiting and analytics
-- [Celo-Wallet-Simulator](https://github.com/CryptoExplor/Celo-Wallet-Simulator) — Simulate transactions and wallet activity on Celo
+
+---
+
+## 🎥 Demo
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CryptoExplor/assets/main/farmlabs_demo.gif" width="75%" alt="FarmLabs Demo"/>
+</p>
 
 ---
 
@@ -42,7 +48,7 @@ Building at the intersection of **finance, code, and blockchain innovation**.
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3" />
-</div>
+</div>  
 
 ---
 
@@ -50,7 +56,6 @@ Building at the intersection of **finance, code, and blockchain innovation**.
 
 - 🚀 **FarmLabs** – Stealth Farming Automation Suite with persona-driven wallet behavior  
 - ⚙️ **Contract Manager** – Modular deployment engine with randomized contract logic & ABI handling  
-- 🔐 **Tax Dashboard** – Firebase-integrated multi-user client system with AI-powered ITR parsing  
 - 🧪 **Testnet Farming R&D** – Multi-chain farming with RPC rotation, faucet integration & idle simulation  
 
 ---
@@ -67,9 +72,36 @@ Building at the intersection of **finance, code, and blockchain innovation**.
 
 ![Profile views](https://komarev.com/ghpvc/?username=CryptoExplor&label=Profile%20views&color=0e75b6&style=flat)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=CryptoExplor&show_icons=true&theme=radical)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoExplor&layout=compact&theme=radical)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=CryptoExplor&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoExplor&layout=compact&theme=radical)  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=CryptoExplor&theme=radical)](https://git.io/streak-stats)  
 
 ---
 
-> *"I automate things so you can sleep while the blockchain works."*  
+## 🌍 Connect with Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-@CryptoExplor-1da1f2?logo=twitter&style=for-the-badge)](https://twitter.com/CryptoExplor)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-CryptoExplor-0077b5?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/cryptoexplor)
+[![Email](https://img.shields.io/badge/Email-cryptoexplor@protonmail.com-8B89CC?logo=gmail&style=for-the-badge)](mailto:cryptoexplor@protonmail.com)
+
+---
+
+## 📝 Coming Soon
+
+- Blog: *How I Built a Persona-Driven Stealth Farming Bot* (Oct 2025)  
+- Blog: *Bridging Tax Compliance with Web3 Automation* (Nov 2025)  
+
+---
+
+> 🚀 **New Here?**  
+> - Check out flagship projects first  
+> - Explore labs for experiments  
+> - Open to PRs, collabs, or feedback — let’s build together!
+
+---
+
+> *"I automate things so you can sleep while the blockchain works."*
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CryptoExplor/assets/main/logo.png" alt="CryptoExplor Logo" width="100" />
+</p>
