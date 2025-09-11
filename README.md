@@ -2,6 +2,18 @@
 
 🔍 Tax Practitioner | 🧠 Consultant | 🧪 Web3 Strategist | 🛠️ Crypto Automator  
 Building at the intersection of **finance, code, and blockchain innovation**.  
+---
+
+### 🎵 Vibes While You Browse  
+
+<audio controls>
+  <source src="https://github.com/CryptoExplor/CryptoExplor/raw/refs/heads/main/background.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>  
+
+[![Play Music](https://img.shields.io/badge/▶️-Play%20Background%20Music-blue)](https://github.com/CryptoExplor/CryptoExplor/raw/refs/heads/main/background.mp3)
+
+---
 
 ---
 
