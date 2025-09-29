@@ -80,9 +80,9 @@ Building at the intersection of **finance, code, and blockchain innovation**.
 
 ## 🌍 Connect with Me
 
-[![Twitter](https://img.shields.io/badge/Twitter-@CryptoExplor-1da1f2?logo=twitter&style=for-the-badge)](https://twitter.com/CryptoExplor)
+[![Twitter](https://img.shields.io/badge/Twitter-@kumar14700-1da1f2?logo=twitter&style=for-the-badge)](https://twitter.com/kumar14700)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-CryptoExplor-0077b5?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/cryptoexplor)
-[![Email](https://img.shields.io/badge/Email-cryptoexplor@protonmail.com-8B89CC?logo=gmail&style=for-the-badge)](mailto:cryptoexplor@protonmail.com)
+[![Email](https://img.shields.io/badge/Email-ravikumar699121@gmail.com-8B89CC?logo=gmail&style=for-the-badge)](mailto:ravikumar699121@gmail.com)
 
 ---
 
