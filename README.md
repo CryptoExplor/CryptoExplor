@@ -20,6 +20,21 @@
 
 ---
 
+## 🎯 Farcaster Mini Apps
+
+> 🌐 Live on Farcaster — built with love, logic, and a bit of curiosity ✨  
+
+| App | Link | Description |
+|------|------|-------------|
+| 🪙 **Celo NFT** | [View](https://farcaster.xyz/miniapps/Tip8ngTAKnHC/celo-nft) | Mint NFTs seamlessly on Celo |
+| ⚡ **Nexus Counter** | [View](https://farcaster.xyz/miniapps/Nf8kjDxT6YXs/nexus-counter) | A simple on-chain counter for experiments |
+| 🧮 **Calculator** | [View](https://farcaster.xyz/miniapps/nuT5EZUTr_YW/calculator) | Basic calculator, reimagined for Farcaster |
+| 🌦️ **CastWeather** | [View](https://farcaster.xyz/miniapps/EqlgelQ1dlTV/castweather) | Real-time weather mini app |
+| 🧘 **Intuition Counter** | [View](https://farcaster.xyz/miniapps/WRKou2E_oREh/intuition-counter) | Minimal, intuitive counter experience |
+| 📤 **FarSend** | [View](https://farcaster.xyz/miniapps/8BszfIpBviDs/farsend) | Batch-send ETH with privacy and simplicity |
+
+---
+
 ## 🚀 Featured Projects
 
 | Project | What It Does | Built With | Status |
@@ -27,7 +42,7 @@
 | **[FarmLabs](https://github.com/CryptoExplor/FarmLabs)** | Stealth Farming Automation Suite with persona-driven wallet behavior, RPC rotation, and idle simulation | `Node.js` `Ethers.js` `JSON Engine` | ![Stars](https://img.shields.io/github/stars/CryptoExplor/FarmLabs?style=flat&color=success) ![Forks](https://img.shields.io/github/forks/CryptoExplor/FarmLabs?style=flat&color=lightgrey) ![Issues](https://img.shields.io/github/issues/CryptoExplor/FarmLabs?color=yellow) |
 | **[Celo-Wallet-Simulator](https://github.com/CryptoExplor/Celo-Wallet-Simulator)** | Simulate realistic wallet activity on Celo for testing and behavioral analysis | `React` `Celo SDK` `TypeScript` | ![Stars](https://img.shields.io/github/stars/CryptoExplor/Celo-Wallet-Simulator?style=flat&color=success) ![Forks](https://img.shields.io/github/forks/CryptoExplor/Celo-Wallet-Simulator?style=flat&color=lightgrey) ![Issues](https://img.shields.io/github/issues/CryptoExplor/Celo-Wallet-Simulator?color=yellow) |
 
-🧩 **Explore More Repositories →** [View All Projects](https://github.com/CryptoExplor?tab=repositories)
+🧩 **Explore More →** [View All Repositories](https://github.com/CryptoExplor?tab=repositories)
 
 ---
 
@@ -80,33 +95,21 @@
 
 <p align="center">
   <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=CryptoExplor&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=CryptoExplor&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" 
-      media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=CryptoExplor&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=CryptoExplor&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" media="(prefers-color-scheme: light)" />
     <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=CryptoExplor&show_icons=true" width="47%">
   </picture>
   <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoExplor&layout=compact&theme=radical&hide_border=true&langs_count=8" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoExplor&layout=compact&theme=default&hide_border=true&langs_count=8" 
-      media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoExplor&layout=compact&theme=radical&hide_border=true&langs_count=8" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoExplor&layout=compact&theme=default&hide_border=true&langs_count=8" media="(prefers-color-scheme: light)" />
     <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoExplor&layout=compact" width="47%">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=CryptoExplor&theme=radical&hide_border=true&fire=ff6b6b&ring=ffd93d" 
-      media="(prefers-color-scheme: dark)" />
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com?user=CryptoExplor&theme=default&hide_border=true" 
-      media="(prefers-color-scheme: light)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=CryptoExplor&theme=radical&hide_border=true&fire=ff6b6b&ring=ffd93d" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com?user=CryptoExplor&theme=default&hide_border=true" media="(prefers-color-scheme: light)" />
     <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=CryptoExplor" width="75%">
   </picture>
 </p>
@@ -132,6 +135,7 @@
 > **Start Here:**  
 > → Explore [FarmLabs](https://github.com/CryptoExplor/FarmLabs)  
 > → Discover all [Projects & Experiments](https://github.com/CryptoExplor?tab=repositories)  
+> → Check out my [Farcaster Mini Apps](#-farcaster-mini-apps)  
 > → Open a PR or drop feedback — I merge fast ⚡  
 
 ---
