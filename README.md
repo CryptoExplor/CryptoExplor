@@ -1,10 +1,3 @@
-<!-- Clickable Banner -->
-<p align="center">
-  <a href="https://github.com/CryptoExplor">
-    <img src="https://raw.githubusercontent.com/CryptoExplor/assets/main/banner.png" alt="Finance x Code x Web3 Banner" width="100%" style="border-radius:14px; box-shadow:0 8px 24px rgba(0,0,0,0.12); transition:transform 0.3s ease;">
-  </a>
-</p>
-
 <h1 align="center">Hey, I'm <strong>CryptoExplor</strong> 👋</h1>
 
 <p align="center">
@@ -133,7 +126,3 @@
 ---
 
 > _"I write code so the blockchain keeps working while you sleep."_
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CryptoExplor/assets/main/logo.png" width="120" alt="CryptoExplor Logo" style="filter:drop-shadow(0 6px 12px rgba(0,0,0,0.2));" />
-</p>
