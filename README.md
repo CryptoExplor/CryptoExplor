@@ -56,14 +56,6 @@
 
 ---
 
-## Demo: FarmLabs in Action
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/CryptoExplor/assets/main/farmlabs_demo.gif" width="80%" alt="FarmLabs Demo" style="border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,0.18); border:1px solid #333;">
-</p>
-
----
-
 ## Tech Stack
 
 <p align="center">
