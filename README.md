@@ -61,9 +61,6 @@
 - [`Farcaster-Mini-App`](https://github.com/CryptoExplor/Farcaster-Mini-App) — Farcaster mini app boilerplate & experiments
 - [`weather-mini-app`](https://github.com/CryptoExplor/weather-mini-app) — Farcaster Weather MiniApp for real-time local forecasts with web3 community integration
 - [`intuition`](https://github.com/CryptoExplor/intuition) — Evolving Badge NFT Counter dApp with Top-50 Leaderboard (archived)
-- [`irys-berachain-dnft`](https://github.com/CryptoExplor/irys-berachain-dnft) — Dynamic NFT project using Irys mutability features on Berachain's EVM
-- [`antidrain`](https://github.com/CryptoExplor/antidrain) — Guide on claiming and transferring airdrop tokens from compromised wallets
-- [`BaseCamp`](https://github.com/CryptoExplor/BaseCamp) — Base blockchain experiments
 
 ---
 
