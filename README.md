@@ -1,110 +1,125 @@
-<h1 align="center">Hey, I'm <strong>CryptoExplor</strong> 👋</h1>
+<div align="center">
 
-<p align="center">
-  <em>Web3 Builder • Farcaster Developer • Automation Engineer</em><br>
-  Building <strong>stealth, scalable, and onchain</strong> systems at the intersection of Farcaster, Base, Celo, and blockchain automation.
-</p>
+# CryptoExplor
 
----
+**Web3 Automation Infrastructure Builder**
 
-## 🟣 Farcaster Mini Apps
+*Designing stealth, scalable, and onchain systems across Farcaster, Base, Celo, Stacks, and EVM.*
 
-> Live on Farcaster — built with love, logic, and a bit of curiosity
+[![X](https://img.shields.io/badge/-@kumar14700-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/kumar14700) [![Farcaster](https://img.shields.io/badge/-Farcaster-8A63D2?style=flat&logoColor=white)](https://farcaster.xyz) [![Website](https://img.shields.io/badge/-cryptoexplor.vercel.app-000?style=flat&logo=vercel&logoColor=white)](https://cryptoexplor.vercel.app) [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ravikumar699121@gmail.com)
 
-| App | Link | Description |
-|-----|------|-------------|
-| **Celo NFT** | [View](https://farcaster.xyz/miniapps/Tip8ngTAKnHC/celo-nft) | Mint NFTs seamlessly on Celo |
-| **Nexus Counter** | [View](https://farcaster.xyz/miniapps/Nf8kjDxT6YXs/nexus-counter) | A simple on-chain counter for experiments |
-| **Calculator** | [View](https://farcaster.xyz/miniapps/nuT5EZUTr_YW/calculator) | Basic calculator, reimagined for Farcaster |
-| **CastWeather** | [View](https://farcaster.xyz/miniapps/EqlgelQ1dlTV/castweather) | Real-time weather mini app |
-| **Intuition Counter** | [View](https://farcaster.xyz/miniapps/WRKou2E_oREh/intuition-counter) | Minimal, intuitive counter experience |
-| **FarSend** | [View](https://farcaster.xyz/miniapps/8BszfIpBviDs/farsend) | Batch-send ETH with privacy and simplicity |
+</div>
 
 ---
 
-## 🚀 Featured Projects
+## What I Build
 
-| Project | What It Does | Built With | Status |
-|---------|-------------|------------|--------|
-| **[FarSend](https://github.com/CryptoExplor/FarSend)** | Multi-chain batch sender for ETH and ERC-20 tokens — built for Farcaster and Base app | `HTML` `JS` `Web3` | ![Stars](https://img.shields.io/github/stars/CryptoExplor/FarSend?style=flat&color=success) |
-| **[CeloNFT](https://github.com/CryptoExplor/CeloNFT)** | Decentralized web app to mint free NFTs on Celo with live CELO price | `JavaScript` `Celo` | ![Forks](https://img.shields.io/github/forks/CryptoExplor/CeloNFT?style=flat&color=lightgrey) |
-| **[VOIDMASKS](https://github.com/CryptoExplor/VOIDMASKS)** | 10,000 supply permissionless NFT collection on Stacks — deterministic on-chain SVG art | `JavaScript` `Stacks` | ![Stars](https://img.shields.io/github/stars/CryptoExplor/VOIDMASKS?style=flat&color=success) |
-| **[Celo-Wallet-Simulator](https://github.com/CryptoExplor/Celo-Wallet-Simulator)** | Lightweight wallet activity simulator for Celo with encrypted keys & persona-driven behavior | `JavaScript` `Celo SDK` | ![Stars](https://img.shields.io/github/stars/CryptoExplor/Celo-Wallet-Simulator?style=flat&color=success) |
-| **[farmlabs](https://github.com/CryptoExplor/farmlabs)** | Client-side app to simulate and automate blockchain transaction activity across EVM chains | `HTML` `JS` | ![Stars](https://img.shields.io/github/stars/CryptoExplor/farmlabs?style=flat&color=success) |
-| **[Stacks-Tip-Jar](https://github.com/CryptoExplor/Stacks-Tip-Jar)** | Production-ready tip jar dApp on Stacks (Bitcoin L2) with Farcaster Frame support | `JavaScript` `Stacks` | ![Stars](https://img.shields.io/github/stars/CryptoExplor/Stacks-Tip-Jar?style=flat&color=success) |
-| **[LinesNFT](https://github.com/CryptoExplor/LinesNFT)** | NFT collection on Story Protocol with IP registration during mint | `TypeScript` | ![Stars](https://img.shields.io/github/stars/CryptoExplor/LinesNFT?style=flat&color=success) |
-| **[NFT-mini-app](https://github.com/CryptoExplor/NFT-mini-app)** | NFT mini app for Farcaster | `JavaScript` | ![Stars](https://img.shields.io/github/stars/CryptoExplor/NFT-mini-app?style=flat&color=success) |
-| **[Wallet-Forge](https://github.com/CryptoExplor/Wallet-Forge)** | Client-side utility for importing, cleaning, and exporting crypto private keys & addresses | `HTML` | ![Stars](https://img.shields.io/github/stars/CryptoExplor/Wallet-Forge?style=flat&color=success) |
-| **[Vault](https://github.com/CryptoExplor/Vault)** | Secure web-based note and password manager with local master-password encryption | `HTML` | ![Stars](https://img.shields.io/github/stars/CryptoExplor/Vault?style=flat&color=success) |
-| **[builds](https://github.com/CryptoExplor/builds)** | A registry of everything I ship — tools, apps, experiments | `JavaScript` | ![Stars](https://img.shields.io/github/stars/CryptoExplor/builds?style=flat&color=success) |
+I architect and ship **Web3 automation infrastructure** — tools that operate silently, handle multi-chain logic, and solve real on-chain problems:
+
+- **Farcaster Mini Apps** — production-grade, live on Farcaster
+- **Stealth Automation Engines** — multi-wallet, persona-driven, bot-resistant
+- **On-chain Tooling** — NFT infra, batch senders, wallet simulators
+- **EVM Deployment Systems** — multi-chain Hardhat pipelines
+
+> I don't just experiment — I ship.
 
 ---
 
-## ⚙️ Automation & Dev Tools
+## Flagship Projects
 
-> Exploring automation, stealth mechanics, and dev tooling for Web3.
+### FarSend — Multi-chain Batch Sender
+[![Repo](https://img.shields.io/badge/GitHub-FarSend-181717?style=flat&logo=github)](https://github.com/CryptoExplor/FarSend) [![Stars](https://img.shields.io/github/stars/CryptoExplor/FarSend?style=flat&color=success)](https://github.com/CryptoExplor/FarSend)
 
-- [`Circle-Faucet`](https://github.com/CryptoExplor/Circle-Faucet) — Automated faucet claimer for Circle testnet tokens (USDC/EURC) across Ethereum, Avalanche, Polygon
-- [`Solayer-devnet-faucet`](https://github.com/CryptoExplor/Solayer-devnet-faucet) — Browser-based auto faucet claimer for Solayer (Solana VM) Devnet with multi-wallet support
-- [`GitHub-Contribution-Bot`](https://github.com/CryptoExplor/GitHub-Contribution-Bot) — Simulate/automate GitHub activity with heatmap preview, multi-repo support, and AI-powered commit messages
-- [`nexus-counter-app`](https://github.com/CryptoExplor/nexus-counter-app) — Counter dApp for Nexus blockchain testnet with multi-wallet support & gamified leaderboards
-- [`Human-like-Automation-Info`](https://github.com/CryptoExplor/Human-like-Automation-Info) — Guide on stealth automation to evade modern ML-based bot detection
-- [`tempo`](https://github.com/CryptoExplor/tempo) — Testnet automation experiments
-- [`faucet-test`](https://github.com/CryptoExplor/faucet-test) — Faucet architecture experiments & UX testing
-- [`omnitap`](https://github.com/CryptoExplor/omnitap) — Multi-chain tap automation
-- [`multichain-hardhat-deployer`](https://github.com/CryptoExplor/multichain-hardhat-deployer) — Deploy smart contracts across multiple chains using Hardhat
+Batch-send ETH and ERC-20 tokens across multiple chains from a single interface. Built for Farcaster and Base. Privacy-first, gas-efficient, live on Farcaster Mini Apps.
+
+**Stack:** `HTML` `JavaScript` `Web3.js` `Base` `EVM`
 
 ---
 
-## 🧪 Labs & Experiments
+### FarmLabs — On-chain Behavior Simulation Engine
+[![Repo](https://img.shields.io/badge/GitHub-farmlabs-181717?style=flat&logo=github)](https://github.com/CryptoExplor/farmlabs) [![Stars](https://img.shields.io/github/stars/CryptoExplor/farmlabs?style=flat&color=success)](https://github.com/CryptoExplor/farmlabs)
 
-- [`Farcaster-Mini-App`](https://github.com/CryptoExplor/Farcaster-Mini-App) — Farcaster mini app boilerplate & experiments
-- [`weather-mini-app`](https://github.com/CryptoExplor/weather-mini-app) — Farcaster Weather MiniApp for real-time local forecasts with web3 community integration
-- [`intuition`](https://github.com/CryptoExplor/intuition) — Evolving Badge NFT Counter dApp with Top-50 Leaderboard (archived)
+Client-side engine to simulate and automate blockchain transaction activity across EVM chains. Persona-driven wallets, stealth timing, multi-chain support.
 
----
-
-## 🛠 Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Base](https://img.shields.io/badge/-Base-0052FF?style=flat&logo=coinbase&logoColor=white)
-![Celo](https://img.shields.io/badge/-Celo-FCFF52?style=flat&logo=celo&logoColor=black)
-![Farcaster](https://img.shields.io/badge/-Farcaster-8A63D2?style=flat&logoColor=white)
+**Stack:** `HTML` `JavaScript` `EVM` `Web3`
 
 ---
 
-## 📊 GitHub Analytics
+### VOIDMASKS — Permissionless On-chain NFT Collection
+[![Repo](https://img.shields.io/badge/GitHub-VOIDMASKS-181717?style=flat&logo=github)](https://github.com/CryptoExplor/VOIDMASKS) [![Stars](https://img.shields.io/github/stars/CryptoExplor/VOIDMASKS?style=flat&color=success)](https://github.com/CryptoExplor/VOIDMASKS)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CryptoExplor&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoExplor&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CryptoExplor&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
+10,000 supply NFT collection on Stacks with deterministic on-chain SVG art generation. Fully permissionless mint, no IPFS dependency.
+
+**Stack:** `JavaScript` `Stacks` `Bitcoin L2`
 
 ---
 
-## 🌐 Connect
+## Farcaster Mini Apps
 
-[![X](https://img.shields.io/badge/-@kumar14700-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/kumar14700)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ravik-ca)
-[![Website](https://img.shields.io/badge/-cryptoexplor.vercel.app-000?style=flat&logo=vercel&logoColor=white)](https://cryptoexplor.vercel.app)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ravikumar699121@gmail.com)
+> 6 mini apps live on Farcaster — built and maintained by me.
 
----
-
-> **Start Here:**
-> Explore **[FarSend](https://github.com/CryptoExplor/FarSend)**
-> Discover all **[Projects & Experiments](https://github.com/CryptoExplor?tab=repositories)**
-> Check out my **[Farcaster Mini Apps](#-farcaster-mini-apps)**
-> Open a PR or drop feedback — I merge fast
+| App | Description | Link |
+|-----|-------------|------|
+| **FarSend** | Batch ETH sender — privacy + simplicity | [Launch](https://farcaster.xyz/miniapps/8BszfIpBviDs/farsend) |
+| **Celo NFT** | Mint NFTs on Celo, live CELO price feed | [Launch](https://farcaster.xyz/miniapps/Tip8ngTAKnHC/celo-nft) |
+| **CastWeather** | Real-time weather, web3 community layer | [Launch](https://farcaster.xyz/miniapps/EqlgelQ1dlTV/castweather) |
+| **Intuition Counter** | Evolving Badge NFT with Top-50 leaderboard | [Launch](https://farcaster.xyz/miniapps/WRKou2E_oREh/intuition-counter) |
+| **Nexus Counter** | On-chain counter with multi-wallet support | [Launch](https://farcaster.xyz/miniapps/Nf8kjDxT6YXs/nexus-counter) |
+| **Calculator** | Basic calculator, reimagined for Farcaster | [Launch](https://farcaster.xyz/miniapps/nuT5EZUTr_YW/calculator) |
 
 ---
 
-> _"I write code so the blockchain keeps working while you sleep."_
+## More Projects
+
+| Project | What It Does |
+|---------|--------------|
+| [CeloNFT](https://github.com/CryptoExplor/CeloNFT) | Free NFT minting dApp on Celo with live price feed |
+| [Celo-Wallet-Simulator](https://github.com/CryptoExplor/Celo-Wallet-Simulator) | Encrypted persona-driven wallet activity simulator |
+| [LinesNFT](https://github.com/CryptoExplor/LinesNFT) | NFT collection on Story Protocol with IP registration on mint |
+| [NFT-mini-app](https://github.com/CryptoExplor/NFT-mini-app) | Farcaster-native NFT mini app |
+| [Stacks-Tip-Jar](https://github.com/CryptoExplor/Stacks-Tip-Jar) | Production tip jar dApp on Stacks with Farcaster Frame support |
+| [Wallet-Forge](https://github.com/CryptoExplor/Wallet-Forge) | Client-side utility for importing and cleaning crypto key sets |
+| [Vault](https://github.com/CryptoExplor/Vault) | Secure local-encrypted note and password manager |
+| [multichain-hardhat-deployer](https://github.com/CryptoExplor/multichain-hardhat-deployer) | Deploy smart contracts across multiple chains with Hardhat |
+
+---
+
+## Automation & Dev Tooling
+
+| Tool | What It Does |
+|------|--------------|
+| [Circle-Faucet](https://github.com/CryptoExplor/Circle-Faucet) | Auto-claimer for Circle testnet USDC/EURC across Ethereum, Avalanche, Polygon |
+| [Solayer-devnet-faucet](https://github.com/CryptoExplor/Solayer-devnet-faucet) | Browser-based multi-wallet faucet claimer for Solayer (Solana VM) |
+| [GitHub-Contribution-Bot](https://github.com/CryptoExplor/GitHub-Contribution-Bot) | Automate GitHub activity with heatmap preview and AI commit messages |
+| [nexus-counter-app](https://github.com/CryptoExplor/nexus-counter-app) | Counter dApp on Nexus testnet — multi-wallet + gamified leaderboard |
+| [Human-like-Automation-Info](https://github.com/CryptoExplor/Human-like-Automation-Info) | Guide to stealth automation that evades ML-based bot detection |
+| [omnitap](https://github.com/CryptoExplor/omnitap) | Multi-chain tap automation |
+
+---
+
+## Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Base](https://img.shields.io/badge/-Base-0052FF?style=flat&logo=coinbase&logoColor=white) ![Celo](https://img.shields.io/badge/-Celo-FCFF52?style=flat&logo=celo&logoColor=black) ![Farcaster](https://img.shields.io/badge/-Farcaster-8A63D2?style=flat&logoColor=white) ![Stacks](https://img.shields.io/badge/-Stacks-5546FF?style=flat&logoColor=white)
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CryptoExplor&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoExplor&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=CryptoExplor&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+**Start here:** [FarSend](https://github.com/CryptoExplor/FarSend) &nbsp;|&nbsp; [FarmLabs](https://github.com/CryptoExplor/farmlabs) &nbsp;|&nbsp; [All Repos](https://github.com/CryptoExplor?tab=repositories)
+
+*"I write code so the blockchain keeps working while you sleep."*
+
+</div>
