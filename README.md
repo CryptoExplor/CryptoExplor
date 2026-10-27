@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ravi · CryptoExplor
+# CryptoExplor
 
 **Web3 Automation Infrastructure, Market Tooling & Agent Systems Builder**
 
